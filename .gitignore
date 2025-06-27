@@ -1,0 +1,15 @@
+camenv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OpenCV logs, images
+*.jpg
+*.png
+*.log
+
+# System files
+.DS_Store
+
+.python-version
